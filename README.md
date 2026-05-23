@@ -64,7 +64,7 @@ All examples are runnable and demonstrate **incremental IAM composition**, start
 
 ```hcl
 module "policy" {
-  source = "git::https://github.com/mlinxfeld/terraform-oci-fk-policy.git?ref=v0.1.0"
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-policy.git?ref=v0.1.0"
 
   providers = {
     oci = oci.homeregion
