@@ -4,6 +4,8 @@ This repository contains a reusable **Terraform/OpenTofu module** and progressiv
 
 It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/)** and serves as a small, composable IAM building block for OCI examples and workloads, including **OKE add-ons**, autoscaler integrations, and instance-principal access patterns.
 
+Support expectations are documented in [SUPPORT.md](SUPPORT.md).
+
 ---
 
 ## 🎯 Purpose
